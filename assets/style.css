@@ -30,7 +30,7 @@ a {
 }
 
 
-img.rounded-corners {
+img {
     border-radius: 50%
 }
 
@@ -38,10 +38,14 @@ img.rounded-corners {
 h1 {
     border-radius: 70px;
     border: 3px solid black;
+    margin: auto;
+    width: 55%;
 }
 
 
 h2 {
-    border: 3px solid black;
     border-radius: 70px;
+    border: 3px solid black;
+    margin: auto;
+    width: 55%;
 }
